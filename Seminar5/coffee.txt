@@ -1,0 +1,6 @@
+Cafe Latte
+Cappucino
+White Mocha
+Frappucino
+Flat white
+Americano
